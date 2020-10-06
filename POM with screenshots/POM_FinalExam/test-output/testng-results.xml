@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-18T16:40:01 EDT" name="Default suite" finished-at="2020-08-18T16:40:48 EDT" duration-ms="46992">
+    <groups>
+    </groups>
+    <test started-at="2020-08-18T16:40:01 EDT" name="Default test" finished-at="2020-08-18T16:40:48 EDT" duration-ms="46992">
+      <class name="scripts.TestCases">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:scripts.TestCases@7ea37dbf]" started-at="2020-08-18T16:40:01 EDT" name="beforeTest" finished-at="2020-08-18T16:40:12 EDT" duration-ms="11180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="MyFunc()[pri:0, instance:scripts.TestCases@7ea37dbf]" started-at="2020-08-18T16:40:12 EDT" name="MyFunc" finished-at="2020-08-18T16:40:47 EDT" duration-ms="34630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyFunc -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:scripts.TestCases@7ea37dbf]" started-at="2020-08-18T16:40:47 EDT" name="afterTest" finished-at="2020-08-18T16:40:48 EDT" duration-ms="1142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- scripts.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
