@@ -1,0 +1,23 @@
+Create an Application called “Online Exam System”.
+When the application starts ask for Student Information, 
+1)	Name
+2)	Student ID (Numeric)
+3)	Address
+4)	Contact Number
+5)	Email
+For taking the examination, the student should be given 10 questions, with 4 option each, out of which one will be the correct answer. (Create your own questions)
+Eg: 1) Who Created Java?
+a)	Microsoft
+b)	Google
+c)	Sun Microsystems
+d)	Amazon
+The student answer will be ‘c’. 
+
+Finally, when the exam is completed, you should display a final report.
+Student Name:
+Student ID:
+No. of Correct Answers:
+No. of Wrong Answers:
+Final Score:
+
+And based on final score Pass or Fail. (If score is 6 and above out of 10 then Pass, otherwise Fail).

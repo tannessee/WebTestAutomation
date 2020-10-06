@@ -1,0 +1,10 @@
+Step1: Log on to iga website ""
+Step2: Click Online Grocery
+Step3: Enter the postal code and click search
+Step4: Select a store from the list
+Step5: Click Start Shopping button
+Step6: Click Create an account link
+Step7: Fill in the form with (first name, last name, email, password and password confirmation)
+Step8: Accept the terms and conditions by clicking the check box
+
+	   
