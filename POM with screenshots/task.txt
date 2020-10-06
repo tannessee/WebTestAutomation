@@ -1,0 +1,14 @@
+Final Exam 
+
+Create a TestNG Project and implement it in a Page Object Model
+
+Step 1: Navigate to H&M website ("https://www2.hm.com/en_ca/index.html")
+Step 2: Click "Men" in the header
+Step 3: Click "Shirts" in the left menu
+Step 4: Select the 1st Shirt (Hint: Click the Shirt name)
+Step 5: Close the cookies message at the bottom
+Step 6: Click the "Select size" dropdown
+Step 7: Select any size
+Step 8: Click "ADD" button
+
+Note: Add screenshots for all 8 steps in the project folder. Zip the entire project folder and submit
